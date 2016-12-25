@@ -1,0 +1,2 @@
+For the AST, store in a linear list, but with tuples of the token and the stack depth
+Instead of using an AST, try traversing the code as is, keeping track of the stack depth while it runs
